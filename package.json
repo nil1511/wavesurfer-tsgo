@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "@typescript/native-preview": "^7.0.0-dev.20251204.1",
+    "@typescript/native-preview": "^7.0.0-dev.20260113.1",
     "typescript": "^5.9.3",
     "wavesurfer.js": "7.8.11"
   }
